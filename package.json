@@ -1,5 +1,6 @@
 {
   "name": "backend-package-assigment",
+  "private": true,
   "version": "1.0.0",
   "description": "This is an assignment for the cmda-backend course.",
   "license": "MIT",
