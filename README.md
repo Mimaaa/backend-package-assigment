@@ -11,7 +11,7 @@ The ```index.js``` file contains functions who replace characters based on a pre
 # Usage
 
 ```javascript
-const vowel = require('vowel');
+const vowel = require('backend-package-assignment');
 
 console.log(vowel('butt')); //=> 'b*tt'
 console.log(vowel.vowel('butt')); //=> 'b*tt'
@@ -19,6 +19,8 @@ console.log(vowel.inner('butt')); //=> 'b**t'
 console.log(vowel.grawlix('butt')); //=> '@#$%'
 console.log(vowel.grawlix(7)); //=> '@#$%!&?'
 ```
+
+>Original code written by @wooorm.
 
 # Utilities
 
