@@ -13,7 +13,7 @@
     "node": "v8.9.4"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "xo"
   },
   "main": "index.js",
   "keywords": [
@@ -27,6 +27,11 @@
     "repeat-string": "^1.6.1"
   },
   "devDependencies": {
+    "prettier": "1.10.2",
     "xo": "^0.20.3"
+  },
+  "prettier": {
+    "useTabs": true,
+    "trailingComma": "all"
   }
 }
