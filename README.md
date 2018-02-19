@@ -4,7 +4,7 @@ The ```index.js``` file contains functions who replace characters based on a pre
 
 # Install...
 
-...the project by running
+...the project by running:
 
 ```$ npm install```
 
@@ -18,7 +18,7 @@ The ```index.js``` file contains functions who replace characters based on a pre
 * Prettier: ```$ npm run pretty```
 * Mocha: ```$ npm run test```
 
-All of them combined are executed by ```$ npm run magic```
+All of them combined are executed by ```$ npm run magic```.
 
 # Contributing
 
