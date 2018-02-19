@@ -20,7 +20,7 @@ console.log(vowel.grawlix('butt')); //=> '@#$%'
 console.log(vowel.grawlix(7)); //=> '@#$%!&?'
 ```
 
->Original code written by @wooorm.
+>Original code written by [@wooorm](https://github.com/wooorm).
 
 # Utilities
 
