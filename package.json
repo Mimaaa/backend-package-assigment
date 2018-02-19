@@ -1,0 +1,19 @@
+{
+  "name": "backend-package-assigment",
+  "version": "1.0.0",
+  "description": "This is an assignment for the cmda-backend course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assignment",
+    "backend",
+    "cmda"
+  ],
+  "author": "Mirza van Meerwijk",
+  "license": "MIT",
+  "dependencies": {
+    "repeat-string": "^1.6.1"
+  }
+}
