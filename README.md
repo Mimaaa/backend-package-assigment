@@ -12,7 +12,7 @@ The ```index.js``` file contains functions who replace characters based on a pre
 
 [XO](https://github.com/xojs/xo) (for linting), [Prettier](https://github.com/prettier/prettier) (for formatting) and [Mocha](https://mochajs.org/) for unit testing are included as devDependencies. 
 
-## Usage
+## Scripts
 
 * XO: ```$ npm run lint```
 * Prettier: ```$ npm run pretty```
