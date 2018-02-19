@@ -1,7 +1,7 @@
 {
   "name": "backend-package-assigment",
   "version": "1.0.0",
-  "description": "This is an assignment for the cmda-backend course",
+  "description": "This is an assignment for the cmda-backend course.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
