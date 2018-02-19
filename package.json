@@ -16,7 +16,8 @@
   "scripts": {
     "lint": "xo",
     "pretty": "prettier--write",
-    "magic": "npm run lint && npm run pretty"
+    "test": "mocha",
+    "magic": "npm run lint && npm run pretty && npm run mocha"
   },
   "main": "index.js",
   "keywords": [
@@ -30,6 +31,7 @@
     "repeat-string": "^1.6.1"
   },
   "devDependencies": {
+    "mocha": "^5.0.1",
     "prettier": "1.10.2",
     "xo": "^0.20.3"
   },
