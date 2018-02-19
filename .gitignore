@@ -1,0 +1,13 @@
+# DEPENDENCIES
+node_modules/
+
+# LOGS
+logs
+*.log
+npm-debug.log*
+
+# NPM CACHE
+.npm
+
+# ENVIRONMENT FILES
+.env
