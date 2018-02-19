@@ -2,18 +2,31 @@
   "name": "backend-package-assigment",
   "version": "1.0.0",
   "description": "This is an assignment for the cmda-backend course.",
-  "main": "index.js",
+  "license": "MIT",
+  "repository": "mimaaa/backend-package-assignment",
+  "author": {
+    "name": "Mirza van Meerwijk",
+    "email": "hello@mirza.lol",
+    "url": "www.mirza.lol"
+  },
+  "engines": {
+    "node": "v8.9.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "main": "index.js",
   "keywords": [
     "assignment",
     "backend",
-    "cmda"
+    "cmda",
+    "naughty",
+    "words"
   ],
-  "author": "Mirza van Meerwijk",
-  "license": "MIT",
   "dependencies": {
     "repeat-string": "^1.6.1"
+  },
+  "devDependencies": {
+    "xo": "^0.20.3"
   }
 }
