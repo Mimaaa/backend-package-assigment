@@ -10,7 +10,7 @@ The ```index.js``` file contains functions who replace characters based on a pre
 
 # Usage
 
-```
+```javascript
 const vowel = require('vowel');
 
 console.log(vowel('butt')); //=> 'b*tt'
