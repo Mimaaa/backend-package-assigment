@@ -24,12 +24,11 @@ console.log(vowel.grawlix(7)); //=> '@#$%!&?'
 
 # Utilities
 
-[XO](https://github.com/xojs/xo) (for linting), [Prettier](https://github.com/prettier/prettier) (for formatting) and [Mocha](https://mochajs.org/) for unit testing are included as [devDependencies](https://github.com/Mimaaa/backend-package-assigment/blob/389ebc09e9c8d8450e157f441ae212413682dbef/package.json#L33). 
+[XO](https://github.com/xojs/xo) (for linting) and [Mocha](https://mochajs.org/) for unit testing are included as [devDependencies](https://github.com/Mimaaa/backend-package-assigment/blob/389ebc09e9c8d8450e157f441ae212413682dbef/package.json#L33). 
 
 ## Scripts
 
 * XO: ```$ npm run lint```
-* Prettier: ```$ npm run pretty```
 * Mocha: ```$ npm run test```
 
 All of them combined are executed by ```$ npm run magic```.
