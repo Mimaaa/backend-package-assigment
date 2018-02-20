@@ -11,3 +11,6 @@ npm-debug.log*
 
 # ENVIRONMENT FILES
 .env
+
+# SYSTEM FILES
+.DS_Store
