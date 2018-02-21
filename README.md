@@ -6,7 +6,9 @@ The ```index.js``` file contains functions who replace characters based on a pre
 
 ...the project by running:
 
-```$ npm install```
+```sh
+$ npm install
+```
 
 # Usage
 
