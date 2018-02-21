@@ -5,14 +5,7 @@
   "description": "This is an assignment for the cmda-backend course.",
   "license": "MIT",
   "repository": "mimaaa/backend-package-assignment",
-  "author": {
-    "name": "Mirza van Meerwijk",
-    "email": "hello@mirza.lol",
-    "url": "www.mirza.lol"
-  },
-  "engines": {
-    "node": "v8.9.4"
-  },
+  "author": "Mirza van Meerwijk <hello@mirza.lol> (http://mirza.lol)",
   "scripts": {
     "lint": "xo"
   },
