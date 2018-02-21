@@ -30,7 +30,10 @@ console.log(vowel.grawlix(7)); //=> '@#$%!&?'
 
 ## Scripts
 
-* XO: ```$ npm run lint```
+* XO
+```sh
+$ npm run lint
+```
 
 # Contributing
 
